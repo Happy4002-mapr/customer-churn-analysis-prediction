@@ -1,0 +1,4 @@
+SELECT* FROM stg_Churn;
+USE db_Churn;
+
+SHOW TABLES;
